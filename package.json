@@ -1,0 +1,16 @@
+{
+  "name": "mimez",
+  "version": "1.0.0",
+  "description": "Mimetype parser with custom",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "mimetype",
+    "mime",
+    "mimeparse"
+  ],
+  "author": "wallax",
+  "license": "MIT"
+}
